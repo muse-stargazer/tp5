@@ -173,6 +173,16 @@ body {
   padding: 0 1vw;
 }
 
+#footer.bg {
+  background-color: rgba(156, 78, 22, 0.6);
+  box-sizing: border-box;
+}
+
+#footer.bg p {
+  background-color: rgba(223, 112, 32, 0.7);
+  padding: 2px 6px;
+}
+
 #bigflex {
   display: flex;
   flex-direction: row;

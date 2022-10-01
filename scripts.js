@@ -27,6 +27,8 @@ window.onload = function() {
 
   document.querySelector("#thanks h1").classList.add("bg");
   
+  document.querySelector("#footer").classList.add("bg");
+  
   
 
 
