@@ -21,8 +21,13 @@ window.onload = function() {
     this.classList.toggle("tpshow");
   }
 
-  document.querySelector("")
+  //document.querySelector("#thanks background-image").classList.add("transparent");
+  
+  //document.querySelector("thanks background-image.transparent").style.opacity = "0.5";
 
+  document.querySelector("#thanks h1").classList.add("bg");
+  
+  
 
 
 
